@@ -12,4 +12,4 @@ const refs = {
 // делаю метод объекта
 
 refs.sizeControl.addEventListener("input", refs.changeSize);
-// делаем <input id="font-size-control" type="range" min="16" max="96" /> слушателем событий и при сдвиге (действие "input")  + выполняем колбек функцию из обьекта
+// делаем <input id="font-size-control" type="range" min="16" max="96" /> слушателем событий и при сдвиге (действие "input")  + выполняем колбек функцию из объекта

@@ -16,4 +16,4 @@ const refs = {
 
 // refs.body.style.backgroundColor = refs.getRandomHexColor();
 refs.changeColorBtn.addEventListener("click", refs.changeColorFn);
-// делаем <button type="button" class="change-color">Change color</button> слушателем событий и при клике (действие "click")  + выполняем колбек функцию из обьекта
+// делаем <button type="button" class="change-color">Change color</button> слушателем событий и при клике (действие "click")  + выполняем колбек функцию из объекта
